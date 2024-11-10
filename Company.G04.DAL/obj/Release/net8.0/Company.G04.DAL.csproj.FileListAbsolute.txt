@@ -1,0 +1,12 @@
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.DAL\bin\Release\net8.0\Company.G04.DAL.deps.json
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.DAL\bin\Release\net8.0\Company.G04.DAL.dll
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.DAL\bin\Release\net8.0\Company.G04.DAL.pdb
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.DAL\obj\Release\net8.0\Company.G04.DAL.csproj.AssemblyReference.cache
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.DAL\obj\Release\net8.0\Company.G04.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.DAL\obj\Release\net8.0\Company.G04.DAL.AssemblyInfoInputs.cache
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.DAL\obj\Release\net8.0\Company.G04.DAL.AssemblyInfo.cs
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.DAL\obj\Release\net8.0\Company.G04.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.DAL\obj\Release\net8.0\Company.G04.DAL.dll
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.DAL\obj\Release\net8.0\refint\Company.G04.DAL.dll
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.DAL\obj\Release\net8.0\Company.G04.DAL.pdb
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.DAL\obj\Release\net8.0\ref\Company.G04.DAL.dll

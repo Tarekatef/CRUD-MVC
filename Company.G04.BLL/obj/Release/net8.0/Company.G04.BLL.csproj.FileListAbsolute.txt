@@ -1,0 +1,15 @@
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.BLL\bin\Release\net8.0\Company.G04.BLL.deps.json
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.BLL\bin\Release\net8.0\Company.G04.BLL.dll
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.BLL\bin\Release\net8.0\Company.G04.BLL.pdb
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.BLL\bin\Release\net8.0\Company.G04.DAL.dll
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.BLL\bin\Release\net8.0\Company.G04.DAL.pdb
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.BLL\obj\Release\net8.0\Company.G04.BLL.csproj.AssemblyReference.cache
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.BLL\obj\Release\net8.0\Company.G04.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.BLL\obj\Release\net8.0\Company.G04.BLL.AssemblyInfoInputs.cache
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.BLL\obj\Release\net8.0\Company.G04.BLL.AssemblyInfo.cs
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.BLL\obj\Release\net8.0\Company.G04.BLL.csproj.CoreCompileInputs.cache
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.BLL\obj\Release\net8.0\Company..83DE38C2.Up2Date
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.BLL\obj\Release\net8.0\Company.G04.BLL.dll
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.BLL\obj\Release\net8.0\refint\Company.G04.BLL.dll
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.BLL\obj\Release\net8.0\Company.G04.BLL.pdb
+C:\Users\tarek\Downloads\Compressed\Company--master\Company.G04.BLL\obj\Release\net8.0\ref\Company.G04.BLL.dll

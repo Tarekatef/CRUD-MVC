@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tarek\\Downloads\\Compressed\\Company--master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76F0C5A0-DA21-4C77-95F3-04099A4A3902}|Company.G04.DAL\\Company.G04.DAL.csproj|c:\\users\\tarek\\downloads\\compressed\\company--master\\company.g04.dal\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F0C5A0-DA21-4C77-95F3-04099A4A3902}|Company.G04.DAL\\Company.G04.DAL.csproj|solutionrelative:company.g04.dal\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B05BEC8-50B5-40E6-9CFA-DE38414A2D79}|Company.G04.PL\\Company.G04.PL.csproj|c:\\users\\tarek\\downloads\\compressed\\company--master\\company.g04.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B05BEC8-50B5-40E6-9CFA-DE38414A2D79}|Company.G04.PL\\Company.G04.PL.csproj|solutionrelative:company.g04.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F0C5A0-DA21-4C77-95F3-04099A4A3902}|Company.G04.DAL\\Company.G04.DAL.csproj|c:\\users\\tarek\\downloads\\compressed\\company--master\\company.g04.dal\\data\\migrations\\20241104113122_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F0C5A0-DA21-4C77-95F3-04099A4A3902}|Company.G04.DAL\\Company.G04.DAL.csproj|solutionrelative:company.g04.dal\\data\\migrations\\20241104113122_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tarek\\Downloads\\Compressed\\Company--master\\Company.G04.DAL\\Data\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Company.G04.DAL\\Data\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\tarek\\Downloads\\Compressed\\Company--master\\Company.G04.DAL\\Data\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Company.G04.DAL\\Data\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAABYAAADAzMzMzMwiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:19:11.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241104113122_test.cs",
+              "DocumentMoniker": "C:\\Users\\tarek\\Downloads\\Compressed\\Company--master\\Company.G04.DAL\\Data\\Migrations\\20241104113122_test.cs",
+              "RelativeDocumentMoniker": "Company.G04.DAL\\Data\\Migrations\\20241104113122_test.cs",
+              "ToolTip": "C:\\Users\\tarek\\Downloads\\Compressed\\Company--master\\Company.G04.DAL\\Data\\Migrations\\20241104113122_test.cs",
+              "RelativeToolTip": "Company.G04.DAL\\Data\\Migrations\\20241104113122_test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:31:22.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tarek\\Downloads\\Compressed\\Company--master\\Company.G04.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "Company.G04.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\tarek\\Downloads\\Compressed\\Company--master\\Company.G04.PL\\appsettings.json",
+              "RelativeToolTip": "Company.G04.PL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAClAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T11:30:18.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
